@@ -51,7 +51,7 @@ const revealMessage = (inputWav) => {
 
 const wavFile = "sound.wav";
 const hiddenWavFile = "hidden.Wav";
-const message = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pellentesque odio et fringilla vestibulum. Duis vehicula, nulla sed commodo vestibulum, mi cras."
+const message = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pellentesque odio et fringilla vestibulum. Duis vehicula, nulla sed commodo vestibulum, mi cras.";
 
 // Mesajı Gizle
 hideMessage(wavFile, hiddenWavFile, message);
