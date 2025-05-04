@@ -1,7 +1,7 @@
 import { statSync } from 'fs';
 
-const inputFile = "../image.jpeg";
-const outputFile = "../hidden.jpeg";
+const inputFile = "../sound.wav";
+const outputFile = "../hidden_bpcs.wav";
 
 const statsInput = statSync(inputFile);
 const statsOutput = statSync(outputFile);
