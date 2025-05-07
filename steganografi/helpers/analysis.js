@@ -1,7 +1,7 @@
 import { statSync } from 'fs';
 
 const inputFile = "../sound.wav";
-const outputFile = "../hidden_bpcs.wav";
+const outputFile = "../hidden.wav";
 
 const statsInput = statSync(inputFile);
 const statsOutput = statSync(outputFile);
