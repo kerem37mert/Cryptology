@@ -12,3 +12,10 @@ LSB yöntemi ses gibi ham veri içeren dosyalarda (.wav) doğrudan bit düzeyind
 Bu yöntem, özellikle yüksek karmaşıklığa sahip bölgeleri hedef alarak verilerin gizlenmesini sağlar. BPCS algoritması, medya dosyasındaki her bir bit düzeyindeki karmaşıklığı analiz eder ve bu bitleri mesaj bitleri ile değiştirerek mesajın gizlenmesini sağlar. 
  
 Örnekte 160 karakterlik bir mesaj wav formatındaki dosya içeriğine önce gizlenmiş, sonrasında gizlenen mesajın görüntülenmesi sağlanmıştır. Mesajin gizlenmesi sırasında dosyasın boyutunda herhangi bir değişiklik gözlemlenmemiştir.
+
+## Maskeleme Ve Filtreleme Yöntemleri
+Maskeleme ve filtreleme, insan duyularının (özellikle görme ve işitme) algılayamadığı sınırları kullanarak veri gizleme işlemidir. Veriler, hedef medya dosyasının algılanamaz özellikleri içine gömülür ve veri gizleme işlemi gerçekleştirilir. 
+
+Ses dosyalarında; yüksek frekanslı, gürültülü bölgelere veri gizlenirken video dosyalarında sahne geçişinin olduğu hareketli bölgelere veri gizlenmektedir. Görüntü dosyalarında ise renk geçişi bölgeleri verileri gizlemek için kullanılmaktadır.
+
+Örnekte bu yöntem kullanılarak bir wav dosyasına 160 karakterlik bir veri gizleme işlemi gerçekleştirilmiştir. Bu işlem sonucunda dosya boyutunda herhangi bir değişiklik gözlemlenmemiştir. 
