@@ -19,3 +19,7 @@ Maskeleme ve filtreleme, insan duyularının (özellikle görme ve işitme) alg�
 Ses dosyalarında; yüksek frekanslı, gürültülü bölgelere veri gizlenirken video dosyalarında sahne geçişinin olduğu hareketli bölgelere veri gizlenmektedir. Görüntü dosyalarında ise renk geçişi bölgeleri verileri gizlemek için kullanılmaktadır.
 
 Örnekte bu yöntem kullanılarak bir wav dosyasına 160 karakterlik bir veri gizleme işlemi gerçekleştirilmiştir. Bu işlem sonucunda dosya boyutunda herhangi bir değişiklik gözlemlenmemiştir. 
+
+# Sezgisel Steganaliz Yöntemleri
+Sezgisel Steganaliz Yöntemlerİ, steganografiyle gizlenmiş bilgileri tespit etmek için kullanılan, sezgiye dayanan analiz yöntemleridir. Bu yöntemler, matematiksel modellerden çok, belirli ipuçlarına, anomalilere ya da örüntülere dayalı çıkarımlar yapar.
+
