@@ -21,5 +21,5 @@ Ses dosyalarında; yüksek frekanslı, gürültülü bölgelere veri gizlenirken
 Örnekte bu yöntem kullanılarak bir wav dosyasına 160 karakterlik bir veri gizleme işlemi gerçekleştirilmiştir. Bu işlem sonucunda dosya boyutunda herhangi bir değişiklik gözlemlenmemiştir. 
 
 # Sezgisel Steganaliz Yöntemleri
-Sezgisel Steganaliz Yöntemlerİ, steganografiyle gizlenmiş bilgileri tespit etmek için kullanılan, sezgiye dayanan analiz yöntemleridir. Bu yöntemler, matematiksel modellerden çok, belirli ipuçlarına, anomalilere ya da örüntülere dayalı çıkarımlar yapar.
+Sezgisel Steganaliz Yöntemleri, steganografiyle gizlenmiş bilgileri tespit etmek için kullanılan, sezgiye dayanan analiz yöntemleridir. Bu yöntemler, matematiksel modellerden çok, belirli ipuçlarına, anomalilere ya da örüntülere dayalı çıkarımlar yapar.
 
