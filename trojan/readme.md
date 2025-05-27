@@ -1,4 +1,4 @@
-# Trojan Uygulması
+# Trojan Uygulaması
 Bu trojan ekranda bir pencere açmaktadır.
 
 ## Virus Total Performansı
